@@ -39,7 +39,7 @@ graphs_type.connection_type(3, 2, [(1, 2), (2, 1), (2, 3), (3, 2)])
 The is_full_connected function returns True if the graph is full connected, otherwise False.
 The connection_type function output is an integer stored in a dict with full string descriptions of supported types as values. Adjust the function algorithm and extend the dict with your new return value to add your own type.
 
-For more details and highlighted source code visit [documentation](https://frootin.github.io/graphs-site/).
+For more details and highlighted source code visit [documentation](https://frootin.github.io/graphs/).
 
 ## Background
 
