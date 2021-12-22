@@ -10,3 +10,7 @@ __pycache__
 .coverage
 *.egg-info
 desktop.ini
+/build/doctrees/environment.pickle
+/build/html/.buildinfo
+
+
